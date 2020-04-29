@@ -14,12 +14,10 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'jsonPersonalPosts.dart';
 
 
-const _accessKeyId = 'AKIAIUQWCDWBJBPTHPBA';
-const _secretKeyId = 'MBmUQj1FxCzJAoG/ZfZWDs9ZagRnuqMtfXsUdc/9';
-const _region = 'ap-south-1';
-const _s3Endpoint =
-  'https://taleditpics.s3-ap-south-1.amazonaws.com';
-
+const _accessKeyId = '';
+const _secretKeyId = '';
+const _region = '';
+const _s3Endpoint = '';
 
 class Profile extends StatefulWidget{
   String accountUser;
