@@ -10,10 +10,10 @@ import 'package:taled_it/policy.dart';
 import 'package:path/path.dart' as path;
 
 
-  const _accessKeyId = 'AKIAIUQWCDWBJBPTHPBA';
-  const _secretKeyId = 'MBmUQj1FxCzJAoG/ZfZWDs9ZagRnuqMtfXsUdc/9';
-  const _region = 'ap-south-1';
-  const _s3Endpoint = 'https://taleditposts.s3-ap-south-1.amazonaws.com';
+  const _accessKeyId = '';
+  const _secretKeyId = '';
+  const _region = '';
+  const _s3Endpoint = '';
 
 
 class AddPost extends StatefulWidget {
